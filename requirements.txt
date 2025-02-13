@@ -15,7 +15,10 @@ boto3
 mypy-boto3-s3
 python-box
 ensure
+sklearn
+scipy
 fastapi
 uvicorn
+tensorflow
 Jinja2
 -e .
